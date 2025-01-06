@@ -1,2 +1,2 @@
-# github
- Log of all my coding activity
+# GitHub Project Template
+
