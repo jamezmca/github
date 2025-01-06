@@ -1,4 +1,3 @@
-
 # Daily Coding Log
 
 A comprehensive daily log of my journey learning web development and software engineering. This repository serves as a record of my progress, learnings, and experiments with various technologies.
